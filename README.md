@@ -1,2 +1,2 @@
-# prototipos_Simples_Para_O_Aprendizado
-Estudando para ser um Sênior. São apenas protótipos simples de Apps, Sites e etc...
+# Protótipo de um curso de Html, JavaScript e Css 
+Projeto do Spotfile Music.
